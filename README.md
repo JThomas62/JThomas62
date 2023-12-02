@@ -11,8 +11,8 @@ Freshly graduated from a Fullstack Bootcamp, I'm steering my path toward becomin
 * ⚡  I am really quiet
 
 <a href="https://www.github.com/JThomas62" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JThomas62?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a><a href="https://www.x.com/J_Thomas62" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/J_Thomas62?logo=twitter&style=for-the-badge&color=3382ed&labelColor=ffffff"
+src="https://img.shields.io/github/followers/JThomas62?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/J_Thomas62" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/J_Thomas62?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 
 ### Skills
@@ -31,6 +31,6 @@ src="https://img.shields.io/twitter/follow/J_Thomas62?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JThomas62"><img src="https://github-readme-stats.vercel.app/api?username=JThomas62&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="JThomas62's GitHub stats" /></a>
+<a href="http://www.github.com/JThomas62"><img src="https://github-readme-stats.vercel.app/api?username=JThomas62&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="JThomas62's GitHub stats" /></a>
 
-<a href="https://github.com/JThomas62" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JThomas62&langs_count=10&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JThomas62" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JThomas62&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
