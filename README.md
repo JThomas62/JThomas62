@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Developer
 ----------------------
 
-Freshly graduated from a Fullstack Bootcamp, I'm steering my path toward becoming a frontend developer. I thrive on crafting engaging interfaces while finding exhilaration in motorsports and simulator games. Just as in racing, coding demands precision and strategy, and I'm revved up to bring that passion to my frontend journey, zooming towards mastering captivating web experiences.
+Graduated from Fullstack Bootcamp, I'm steering my path toward becoming a frontend developer. I thrive on crafting engaging interfaces while finding exhilaration in motorsports and simulator games. Just as in racing, coding demands precision and strategy, and I'm revved up to bring that passion to my frontend journey, zooming towards mastering captivating web experiences.
 
 * 🌍  I'm based in Virginia
 * ✉️  You can contact me at [jacobt257@gmail.com](mailto:jacobt257@gmail.com)
-* 🧠  I'm learning Frontend and Backend Web Development
+* 🧠  I'm a Frontend Web Development
 * ⚡  I am really quiet
 
 <a href="https://www.github.com/JThomas62" target="_blank" rel="noreferrer"><img
