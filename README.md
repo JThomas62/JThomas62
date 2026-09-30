@@ -11,9 +11,6 @@ Graduated from Fullstack Bootcamp, I'm steering my path toward becoming a fronte
 * 🧠  I'm a Frontend Web Development
 * ⚡  I am really quiet
 
-<a href="https://www.github.com/JThomas62" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JThomas62?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
-
 ### Skills
 
 
